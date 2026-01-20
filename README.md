@@ -5,6 +5,17 @@ The application allows users to generate strong random passwords, store credenti
 
 ---
 
+## Application Preview
+
+### Main Application Interface
+![Password Manager Main Screen](preview.jpg)
+
+
+### File with Saved Credentials
+![Generated Password Example](credentials.jpg)
+
+---
+
 ## Features
 
 - Generate secure random passwords using:
@@ -16,16 +27,6 @@ The application allows users to generate strong random passwords, store credenti
 - Save credentials locally to a text file
 - Input validation and confirmation dialogs
 - Python fundamentals and clean code practices
-
----
-
-## 📸 Screenshots
-
-### Main Application Interface
-![Password Manager Main Screen](preview.jpg)
-
-### File with Saved Credentials
-![Generated Password Example](credentials.jpg)
 
 ---
 
